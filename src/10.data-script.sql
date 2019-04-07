@@ -22,12 +22,12 @@ insert into car_manufacturer_car_model (car_manufacturer_id, car_model_id) value
 (5, 4);
 
 insert into car (reg_num, car_model_id) values
-('с065мк78rus', 1),
-('с066мк78rus', 1),
-('с067мк78rus', 1),
-('с065ок78rus', 2),
-('с065ок78rus', 3),
-('а777аа59rus', 4);
+('С065МКRUS59', 1),
+('С066МКRUS59', 1),
+('С067МКRUS59', 1),
+('С068МКRUS59', 2),
+('С069МКRUS59', 3),
+('С070МКRUS59', 4);
 
 
 insert into rent_point (address) values
